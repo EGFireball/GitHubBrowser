@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268001919009",
+    "firebase_url": "https://githubbrowser-f547c.firebaseio.com",
+    "project_id": "githubbrowser-f547c",
+    "storage_bucket": "githubbrowser-f547c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268001919009:android:49ed0194ae801edc",
+        "android_client_info": {
+          "package_name": "dimi.com.githubbrowser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268001919009-mk0mat0tbtqtdinn35mijoioqtol0e04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dimi.com.githubbrowser",
+            "certificate_hash": "b15f0e1c5e49f8d84f9a734025a5e85e9ca1aff0"
+          }
+        },
+        {
+          "client_id": "268001919009-c211d7428va9fbiae3mvmi9abmjhjgfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxmuybzjJJLOWUpNqK8NSfRhQq3-1VUoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268001919009-c211d7428va9fbiae3mvmi9abmjhjgfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
